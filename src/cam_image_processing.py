@@ -117,9 +117,7 @@ while running:
                 
 
         output = cv2.drawContours(img, contours, -1, (255, 0, 0), 3)
-        # if img_full: output = cv2.drawContours(img, contours, -1, (255, 0, 0), 3)
-        # else: output = cv2.drawContours(segmented_img, contours, -1, (255, 0, 0), 3)
-
+        
         cv2.imshow(window_name, output)
 
     if ord('q')==cv2.waitKey(10):
