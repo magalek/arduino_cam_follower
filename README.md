@@ -2,7 +2,7 @@
 
 Little experiment I did with an arduino, camera and servos. To program this I used python with openCV library (pardon my hairy leg and a mess on the desk).
 
-![Magic!](img\ezgif.com-gif-maker.gif)
+![Magic!](https://github.com/magalek/arduino_cam_follower/blob/main/img/ezgif.com-gif-maker.gif)
 
 ### How it works
 
